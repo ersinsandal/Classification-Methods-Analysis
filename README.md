@@ -19,7 +19,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 **Author:** Ersin Sandal  
-*Academic Project & Research Study — Pattern Recognition Coursework*
+*Computer Engineer*
 
 </div>
 
@@ -462,13 +462,13 @@ If you use or reference this benchmark, code, or experimental methodology in aca
   title        = {Quantitative Comparative Analysis of Classification Methods in Pattern Recognition: HOG-based Evaluation of Diverse Classifiers},
   year         = {2026},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/<your-username>/pr-classifier-project}},
-  note         = {Undergraduate Academic Research Coursework in Pattern Recognition}
+  howpublished = {\url{https://github.com/ersinsandal/Classification-Methods-Analysis}},
+  note         = {Pattern Recognition Research Study}
 }
 ```
 
 ---
 
 <div align="center">
-  <sub>Developed and maintained with precision by <b>Ersin Sandal</b>. Released under the MIT License.</sub>
+  <sub>Developed and maintained with precision by <b>Ersin Sandal</b>, Computer Engineer. Released under the MIT License.</sub>
 </div>

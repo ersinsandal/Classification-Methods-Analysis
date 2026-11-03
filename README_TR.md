@@ -19,7 +19,7 @@
 [![Lisans](https://img.shields.io/badge/Lisans-MIT-green?style=flat-square)](LICENSE)
 
 **Yazar:** Ersin Sandal  
-*Akademik Proje & Araştırma Çalışması — Örüntü Tanıma (Pattern Recognition) Dersi Kapsamında*
+*Bilgisayar Mühendisi*
 
 </div>
 
@@ -462,13 +462,13 @@ Bu çalışmayı, kaynak kodlarını veya deneysel metodolojiyi akademik bir yay
   title        = {Quantitative Comparative Analysis of Classification Methods in Pattern Recognition: HOG-based Evaluation of Diverse Classifiers},
   year         = {2026},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/<kullanici-adiniz>/pr-classifier-project}},
-  note         = {Örüntü Tanıma Dersi Lisans Akademik Araştırma Çalışması}
+  howpublished = {\url{https://github.com/ersinsandal/Classification-Methods-Analysis}},
+  note         = {Örüntü Tanıma Araştırma Çalışması}
 }
 ```
 
 ---
 
 <div align="center">
-  <sub><b>Ersin Sandal</b> tarafından geliştirilmiş ve belgelenmiştir. MIT Lisansı ile sunulmaktadır.</sub>
+  <sub><b>Ersin Sandal</b>, Bilgisayar Mühendisi tarafından geliştirilmiş ve belgelenmiştir. MIT Lisansı ile sunulmaktadır.</sub>
 </div>
